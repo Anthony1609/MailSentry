@@ -1,0 +1,2 @@
+# MailSentry
+AI EMAIL SPAM DETECTOR
